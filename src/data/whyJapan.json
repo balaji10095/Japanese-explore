@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "icon": "🏯",
+    "title": "Rich Culture",
+    "description": "Experience centuries-old traditions, temples, shrines, tea ceremonies, and cultural heritage."
+  },
+  {
+    "id": 2,
+    "icon": "🍣",
+    "title": "World Famous Cuisine",
+    "description": "Enjoy authentic sushi, ramen, tempura, wagyu beef, and unique regional dishes."
+  },
+  {
+    "id": 3,
+    "icon": "🌸",
+    "title": "Natural Beauty",
+    "description": "From cherry blossoms to Mount Fuji and stunning countryside landscapes."
+  },
+  {
+    "id": 4,
+    "icon": "🚄",
+    "title": "Advanced Technology",
+    "description": "Discover futuristic cities, bullet trains, robotics, and cutting-edge innovation."
+  }
+]

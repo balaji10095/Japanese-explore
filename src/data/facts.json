@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "icon": "🗾",
+    "fact": "Japan consists of over 6,800 islands."
+  },
+  {
+    "id": 2,
+    "icon": "🗻",
+    "fact": "Mount Fuji is Japan's highest mountain."
+  },
+  {
+    "id": 3,
+    "icon": "🚄",
+    "fact": "Japan's Shinkansen trains can exceed 320 km/h."
+  },
+  {
+    "id": 4,
+    "icon": "🌸",
+    "fact": "Cherry blossoms symbolize the beauty of life."
+  },
+  {
+    "id": 5,
+    "icon": "🍣",
+    "fact": "Japan is famous for sushi and traditional cuisine."
+  },
+  {
+    "id": 6,
+    "icon": "🏯",
+    "fact": "Japan has many historic castles and temples."
+  },
+  {
+    "id": 7,
+    "icon": "🎌",
+    "fact": "Japan is known as the Land of the Rising Sun."
+  },
+  {
+    "id": 8,
+    "icon": "🤖",
+    "fact": "Japan is a global leader in robotics and technology."
+  }
+]

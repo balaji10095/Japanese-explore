@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Tokyo",
+    "image": "Tokyo.webp",
+    "description": "Japan's bustling capital city."
+  },
+  {
+    "id": 2,
+    "name": "Kyoto",
+    "image": "Kyoto.webp",
+    "description": "Ancient temples and traditional culture."
+  },
+  {
+    "id": 3,
+    "name": "Osaka",
+    "image": "Osaka.webp",
+    "description": "Food capital of Japan."
+  },
+  {
+    "id": 4,
+    "name": "Mount Fuji",
+    "image": "mount-fuji-climb.webp",
+    "description": "Japan's highest mountain."
+  },
+  {
+    "id": 5,
+    "name": "Nara",
+    "image": "Nara.webp",
+    "description": "Famous for friendly deer parks."
+  },
+  {
+    "id": 6,
+    "name": "Hiroshima",
+    "image": "Hiroshima.webp",
+    "description": "Historic peace memorial city."
+  },
+  {
+    "id": 7,
+    "name": "Hokkaido",
+    "image": "Hokkaido.webp",
+    "description": "Snow paradise of Japan."
+  },
+  {
+    "id": 8,
+    "name": "Okinawa",
+    "image": "Okinawa.webp",
+    "description": "Tropical beaches and islands."
+  },
+  {
+    "id": 9,
+    "name": "Hakone",
+    "image": "Hakone.webp",
+    "description": "Hot springs and Mount Fuji views."
+  },
+  {
+    "id": 10,
+    "name": "Kobe",
+    "image": "Kobe.webp",
+    "description": "Home of famous Kobe beef."
+  },
+  {
+    "id": 11,
+    "name": "Sapporo",
+    "image": "Sapporo.webp",
+    "description": "Known for snow festivals."
+  },
+  {
+    "id": 12,
+    "name": "Nikko",
+    "image": "Nikko.webp",
+    "description": "UNESCO World Heritage temples."
+  },
+  {
+    "id": 13,
+    "name": "Kanazawa",
+    "image": "Kanazawa.webp",
+    "description": "Traditional samurai culture."
+  },
+  {
+    "id": 14,
+    "name": "Nagasaki",
+    "image": "Nagasaki.webp",
+    "description": "Beautiful harbor city."
+  },
+  {
+    "id": 15,
+    "name": "Yokohama",
+    "image": "Yokohama.webp",
+    "description": "Modern waterfront attractions."
+  },
+  {
+    "id": 16,
+    "name": "Kamakura",
+    "image": "Kamakura.webp",
+    "description": "Home of the Great Buddha."
+  },
+  {
+    "id": 17,
+    "name": "Miyajima",
+    "image": "Miyajima.webp",
+    "description": "Famous floating torii gate."
+  },
+  {
+    "id": 18,
+    "name": "Takayama",
+    "image": "Takayama.webp",
+    "description": "Historic mountain town."
+  },
+  {
+    "id": 19,
+    "name": "Shirakawa-go",
+    "image": "Shirakawa-go.webp",
+    "description": "Traditional village and UNESCO site."
+  },
+  {
+    "id": 20,
+    "name": "Fukuoka",
+    "image": "Fukuoka.webp",
+    "description": "Famous for ramen and beaches."
+  }
+]

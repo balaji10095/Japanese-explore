@@ -1,0 +1,31 @@
+{
+  "brand": {
+    "name": "Japan Explorer",
+    "description": "Discover Japan through culture, anime, food, festivals, and unforgettable travel experiences."
+  },
+
+  "quickLinks": [
+    "Home",
+    "Places",
+    "Culture",
+    "Food",
+    "Events",
+    "Seasons"
+  ],
+
+  "cities": [
+    "Tokyo",
+    "Kyoto",
+    "Osaka",
+    "Nara",
+    "Hiroshima"
+  ],
+
+  "contact": {
+    "email": "info@japanexplorer.com",
+    "location": "Tokyo, Japan",
+    "phone": "+81 123 456 789"
+  },
+
+  "copyright": "© 2026 Japan Explorer. All Rights Reserved."
+}

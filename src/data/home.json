@@ -1,0 +1,66 @@
+{
+  "hero": {
+    "subtitle": "The Land of the Rising Sun",
+    "title": "Discover Japan",
+    "description": "Explore Japan's rich culture, breathtaking landscapes, delicious food, and vibrant cities.",
+    "buttonText": "Explore Japan",
+    "image": "hero.WebP"
+  },
+
+  "stats": [
+    {
+      "value": "125M+",
+      "title": "Population"
+    },
+    {
+      "value": "6800+",
+      "title": "Islands"
+    },
+    {
+      "value": "47",
+      "title": "Prefectures"
+    },
+    {
+      "value": "25",
+      "title": "UNESCO Sites"
+    }
+  ],
+
+  "facts": [
+    {
+      "id": 1,
+      "icon": "🗻",
+      "fact": "Mount Fuji is the highest mountain in Japan."
+    },
+    {
+      "id": 2,
+      "icon": "🚄",
+      "fact": "Japan's bullet trains can exceed 320 km/h."
+    },
+    {
+      "id": 3,
+      "icon": "🌸",
+      "fact": "Cherry blossoms are Japan's most famous seasonal symbol."
+    },
+    {
+      "id": 4,
+      "icon": "🗾",
+      "fact": "Japan consists of more than 6,800 islands."
+    }
+  ],
+
+  "testimonials": [
+    {
+      "name": "Emma",
+      "review": "Japan was the most beautiful country I have ever visited."
+    },
+    {
+      "name": "David",
+      "review": "Kyoto temples and cherry blossoms were unforgettable."
+    },
+    {
+      "name": "Sophia",
+      "review": "Tokyo perfectly blends modern technology and tradition."
+    }
+  ]
+}

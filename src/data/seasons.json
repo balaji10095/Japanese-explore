@@ -1,0 +1,42 @@
+[
+  {
+    "id": 1,
+    "name": "Tokyo",
+    "image": "Tokyo.webp"
+  },
+  {
+    "id": 2,
+    "name": "Kyoto",
+    "image": "kyoto.webp"
+  },
+  {
+    "id": 3,
+    "name": "Osaka",
+    "image": "osaka.webp"
+  },
+  {
+    "id": 4,
+    "name": "Mount Fuji",
+    "image": "mount-fuji-climb.webp"
+  },
+  {
+    "id": 5,
+    "name": "Nara",
+    "image": "nara.webp"
+  },
+  {
+    "id": 6,
+    "name": "Hiroshima",
+    "image": "hiroshima.webp"
+  },
+  {
+    "id": 7,
+    "name": "Hokkaido",
+    "image": "hokkaido.webp"
+  },
+  {
+    "id": 8,
+    "name": "Okinawa",
+    "image": "okinawa.webp"
+  }
+]

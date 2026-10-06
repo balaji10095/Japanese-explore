@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "name": "Sushi",
+    "image": "sushi.webp",
+    "description": "Japan's most famous dish made with vinegared rice and fresh seafood."
+  },
+  {
+    "id": 2,
+    "name": "Ramen",
+    "image": "ramen.webp",
+    "description": "Popular noodle soup served with rich broth and delicious toppings."
+  },
+  {
+    "id": 3,
+    "name": "Tempura",
+    "image": "tempura.webp",
+    "description": "Lightly battered seafood and vegetables fried until crispy."
+  },
+  {
+    "id": 4,
+    "name": "Wagyu Beef",
+    "image": "Wagyu Beef.webp",
+    "description": "Premium Japanese beef known for exceptional marbling."
+  },
+  {
+    "id": 5,
+    "name": "Takoyaki",
+    "image": "takoyaki.webp",
+    "description": "Osaka street food made with octopus-filled batter balls."
+  },
+  {
+    "id": 6,
+    "name": "Sashimi",
+    "image": "sashimi.webp",
+    "description": "Fresh raw seafood sliced and served without rice."
+  },
+  {
+    "id": 7,
+    "name": "Udon",
+    "image": "udon.webp",
+    "description": "Thick wheat noodles served in hot or cold broth."
+  },
+  {
+    "id": 8,
+    "name": "Mochi",
+    "image": "mochi.webp",
+    "description": "Traditional Japanese rice cake enjoyed during festivals."
+  },
+  {
+    "id": 9,
+    "name": "Okonomiyaki",
+    "image": "okonomiyaki.webp",
+    "description": "Japanese savory pancake filled with meat, seafood, and vegetables."
+  },
+  {
+    "id": 10,
+    "name": "Yakitori",
+    "image": "yakitori.webp",
+    "description": "Grilled chicken skewers seasoned with salt or tare sauce."
+  },
+  {
+    "id": 11,
+    "name": "Katsu Curry",
+    "image": "katsu curry.webp",
+    "description": "Crispy breaded pork cutlet served with Japanese curry."
+  },
+  {
+    "id": 12,
+    "name": "Onigiri",
+    "image": "onigiri.webp",
+    "description": "Rice balls wrapped in seaweed with flavorful fillings."
+  },
+  {
+    "id": 13,
+    "name": "Soba",
+    "image": "soba.webp",
+    "description": "Buckwheat noodles served hot or chilled with dipping sauce."
+  },
+  {
+    "id": 14,
+    "name": "Gyudon",
+    "image": "gyudon.webp",
+    "description": "Rice bowl topped with thinly sliced beef and onions."
+  },
+  {
+    "id": 15,
+    "name": "Dorayaki",
+    "image": "dorayaki.webp",
+    "description": "Sweet pancake sandwich filled with red bean paste."
+  },
+  {
+    "id": 16,
+    "name": "Taiyaki",
+    "image": "taiyaki.webp",
+    "description": "Fish-shaped pastry filled with red bean, custard, or chocolate."
+  }
+]
