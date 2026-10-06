@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Naruto",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8UBJejzDsdcbDhfgYM4NJfbMyBo9WjxB6HnuxcfgFZpllNF3IrnFG8BI&s=10",
+    "description": "Follow Naruto Uzumaki's journey to become Hokage and protect his village."
+  },
+  {
+    "id": 2,
+    "title": "One Piece",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJdzguYJu2D5aKnSpOCXTIh5zu8Y6iSAuzVGrliZ_rMQ&s=10",
+    "description": "Join Monkey D. Luffy and his crew in search of the legendary One Piece treasure."
+  },
+  {
+    "id": 3,
+    "title": "Dragon Ball",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQiliID98GYdDM3bla39reCA8OK01r0I7WhCz_BQYlsKg&s=10",
+    "description": "One of the most influential anime series featuring Goku and powerful warriors."
+  },
+  {
+    "id": 4,
+    "title": "Attack on Titan",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQF7I5MtbOhPN6umhIf6uY64QIiMu53qU3Oh2cTiRA_ew&s",
+    "description": "A thrilling story of humanity's fight against giant Titans."
+  },
+  {
+    "id": 5,
+    "title": "Demon Slayer",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT0fMxjRck-hY6tdV_nW-SnIWjFEvO3SGjYc77oCHjPUg&s=10",
+    "description": "Tanjiro's journey to save his sister and defeat demons."
+  },
+  {
+    "id": 6,
+    "title": "Jujutsu Kaisen",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTh3hSw1X2eKkBBNgd3rEtwENN-wnk38NLfJMpUoPiNlw&s=10",
+    "description": "A modern supernatural anime filled with action and powerful sorcerers."
+  },
+  {
+    "id": 7,
+    "title": "My Hero Academia",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ5m7Cz3MqjUYlYZAH2r2pw1M0wLlZAIZaSw_XsUDAjQ&s=10",
+    "description": "A world where superheroes are common and dreams become reality."
+  },
+  {
+    "id": 8,
+    "title": "Death Note",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSE-s9JscbcqNhv5TVEvqhf3-mJDkX7FZ3YJTgMSjT-pg&s",
+    "description": "A psychological battle between genius minds over a supernatural notebook."
+  }
+]
